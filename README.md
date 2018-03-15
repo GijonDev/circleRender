@@ -1,2 +1,2 @@
 # circleRender
-clircle rendering using simple Python Turtle Graphics
+circle rendering using simple Python Turtle Graphics
