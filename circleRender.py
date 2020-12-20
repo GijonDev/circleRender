@@ -8,12 +8,9 @@ window = turtle.Screen()
 jony = turtle.Turtle()
 jony.color("red", "black")
 
-null = 0
-void = 0
-
-limit = null
-totalCircleDeg = null
-finalCircleDeg = null
+limit = 0
+totalCircleDeg = 0
+finalCircleDeg = 0
 randomize = "random"
 infinite = "infinite"
 
